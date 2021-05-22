@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "npx create-react-app react_app"
