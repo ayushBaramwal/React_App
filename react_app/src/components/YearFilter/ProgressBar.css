@@ -1,0 +1,7 @@
+.verticleLine {
+    width: 6px;
+    height: 100px;
+    background: linear-gradient(to up, #1c87c9 50%, transparent 50%);
+    border: 1px solid black;
+    border-radius: 10px;
+}
